@@ -1,0 +1,627 @@
+[
+    {
+      "name": "Boys Hostel C Block",
+      "type": "Boys Hostel",
+      "rooms": [
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C101",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C102",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C103",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C104",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C105",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C106",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C107",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C108",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C109",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C110",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C111",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C112",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C113",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C114",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C115",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C116",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C117",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C118",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C119",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C120",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C121",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C122",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C123",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C124",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C125",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C126",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C127",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C128",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C129",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C130",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C131",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C132",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C133",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C134",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C135",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C136",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C137",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C138",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C139",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C140",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C141",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C142",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C143",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C144",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C145",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C146",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C147",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C148",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C149",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C150",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "C151",
+          "bookedBy": {}
+        }
+      ]
+    },
+    {
+      "name": "Girls Hostel D Block",
+      "type": "Girls Hostel",
+      "rooms": [
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D101",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D102",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D103",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D104",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D105",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D106",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D107",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D108",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D109",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D110",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D111",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D112",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D113",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D114",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D115",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D116",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D117",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D118",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D119",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D120",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D121",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D122",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D123",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D124",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D125",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D126",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D127",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D128",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D129",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D130",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D131",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D132",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D133",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D134",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D135",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D136",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D137",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D138",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D139",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D140",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D141",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D142",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D143",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D144",
+          "bookedBy": {}
+        },
+        {
+          "type": "Double Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D145",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D146",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D147",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D148",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D149",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D150",
+          "bookedBy": {}
+        },
+        {
+          "type": "Triple Sharing",
+          "status": "Completely Empty",
+          "roomNo": "D151",
+          "bookedBy": {}
+        }
+      ]
+    }
+  ]
+  
